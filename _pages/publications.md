@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 ---
-I am currently a third-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology , and a graduate research assistant at Global Cyber Security Institute. My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University and a B.Sc. in Computer Engineering from Azad University of Shiraz.
-
-
 Journal Articles
 ======
 1.	Khalili, A., Sami, A., Azimi, M., Moshtari, S., Salehi, Z., Ghiasi, M. and Safavi, A.A., 2016. Employing secure coding practices into industrial applications: a case study. Empirical Software Engineering, 21(1), pp.4-16. https://doi.org/10.1007/s10664-014-9341-9.
