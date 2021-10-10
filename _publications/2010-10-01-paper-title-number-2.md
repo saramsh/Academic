@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Looking for Software Defects? First Find the Nonconformists."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 
+date: 2020
+venue: 'In 2020 IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM) (pp. 75-86)'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Moshtari, S., Santos, J.C., Mirakhorli, M. and Okutan, A., 2020. &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[DOI:10.1109/SCAM51674.2020.00014](DOI:10.1109/SCAM51674.2020.00014)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+1.	Moshtari, S., Santos, J.C., Mirakhorli, M. and Okutan, A., 2020, September. Looking for Software Defects? First Find the Nonconformists. In 2020 IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM) (pp. 75-86). IEEE. DOI:10.1109/SCAM51674.2020.00014.
