@@ -8,7 +8,6 @@ venue:
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Khalili, A., Sami, A., Azimi, M., Moshtari, S., Salehi, Z., Ghiasi, M. and Safavi, A.A., 2016. Empirical Software Engineering, 21(1), pp.4-16.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://doi.org/10.1007/s10664-014-9341-9)
 
