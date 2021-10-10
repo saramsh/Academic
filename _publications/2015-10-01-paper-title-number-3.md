@@ -3,7 +3,7 @@ title: "Employing secure coding practices into industrial applications: a case s
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 
-date: 
+date: 2009-10-01
 venue: 
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Khalili, A., Sami, A., Azimi, M., Moshtari, S., Salehi, Z., Ghiasi, M. and Safavi, A.A., 2016. Empirical Software Engineering, 21(1), pp.4-16.'
