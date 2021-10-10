@@ -84,8 +84,8 @@ author:
   avatar           : "IMG_9185.png"
   bio              : "Doctoral Candidate"
   location         : "Rochester, NY"
-  employer         : "Rochester Institute of Technology"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x0NDDD8AAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Sara-Moshtari"
