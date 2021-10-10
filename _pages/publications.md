@@ -1,24 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /
+permalink: /Publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 ---
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
-
 I am currently a third-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology , and a graduate research assistant at Global Cyber Security Institute. My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University and a B.Sc. in Computer Engineering from Azad University of Shiraz.
 
 
@@ -30,3 +16,16 @@ My main research interests are in the domain of Software Engineering and Data Sc
 * Program Analysis 
 * Data-Driven Software Analysis
 * Machine Learning and Data Mining
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+#{% include base_path %}
+
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
+
+
+
