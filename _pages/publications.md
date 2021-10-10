@@ -8,14 +8,22 @@ author_profile: true
 I am currently a third-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology , and a graduate research assistant at Global Cyber Security Institute. My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University and a B.Sc. in Computer Engineering from Azad University of Shiraz.
 
 
-Research Interests
+Journal Articles
 ======
-My main research interests are in the domain of Software Engineering and Data Science:
-* Software Security
-* Vulnerability Detection
-* Program Analysis 
-* Data-Driven Software Analysis
-* Machine Learning and Data Mining
+1.	Khalili, A., Sami, A., Azimi, M., Moshtari, S., Salehi, Z., Ghiasi, M. and Safavi, A.A., 2016. Employing secure coding practices into industrial applications: a case study. Empirical Software Engineering, 21(1), pp.4-16. https://doi.org/10.1007/s10664-014-9341-9.
+2.	Moshtari, S., Sami, A. and Azimi, M., 2013. Using complexity metrics to improve software security. Computer Fraud & Security, 2013(5), pp.8-17.https://doi.org/10.1016/S1361-3723(13)70045-9.
+
+Conference Papers
+======
+1.	Moshtari, S., Santos, J.C., Mirakhorli, M. and Okutan, A., 2020, September. Looking for Software Defects? First Find the Nonconformists. In 2020 IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM) (pp. 75-86). IEEE. DOI:10.1109/SCAM51674.2020.00014. 
+2.	Moshtari, S. and Sami, A., 2016, April. Evaluating and comparing complexity, coupling and a new proposed set of coupling metrics in cross-project vulnerability prediction. In Proceedings of the 31st Annual ACM Symposium on Applied Computing (pp. 1415-1421). https://doi.org/10.1145/2851613.2851777
+3.	Moshtari, S., Sami, A. and Azimi, M., 2013. Using complexity metrics for within-project and cross-project software vulnerability prediction. Kaspersky Academy, Asia-Pacifc MEA Round 2013. 
+
+Short Conference Papers & Workshop Papers
+======
+1.	Bojanova, I., Galhardo C.E.C. , Moshtari, S., 2021, Oct. Input/Output Check Bugs Taxonomy – Injection in Spotlight. The 5th International Workshop on Software Faults & The 3rd Annual International Workshop on Software Hardware Interaction Faults.
+2.	Santos, C.J., Moshtari, S. and Mirakhorli, M., 2020, March. An Automated Approach to Recover the Use-case View of an Architecture. In 2020 IEEE International Conference on Software Architecture Companion (ICSA-C) (pp. 63-66). IEEE. DOI: 10.1109/ICSA-C50368.2020.00020.
+3.	Khalili, A., Sami, A., Ghiasi, M., Moshtari, S., Salehi, Z. and Azimi, M., 2014, May. Software engineering issues regarding securing ICS: an industrial case study. In Proceedings of the 1st International Workshop on Modern Software Engineering Methods for Industrial Automation (pp. 1-6). https://doi.org/10.1145/2593783.2593789.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
