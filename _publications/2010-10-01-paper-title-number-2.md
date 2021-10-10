@@ -10,6 +10,3 @@ citation: 'Moshtari, S., Santos, J.C., Mirakhorli, M. and Okutan, A., 2020. &quo
 ---
 
 [DOI:10.1109/SCAM51674.2020.00014](DOI:10.1109/SCAM51674.2020.00014)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-1.	Moshtari, S., Santos, J.C., Mirakhorli, M. and Okutan, A., 2020, September. Looking for Software Defects? First Find the Nonconformists. In 2020 IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM) (pp. 75-86). IEEE. DOI:10.1109/SCAM51674.2020.00014.
