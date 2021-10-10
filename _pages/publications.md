@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
----
+
 Journal Articles
 ======
 1.	Khalili, A., Sami, A., Azimi, M., Moshtari, S., Salehi, Z., Ghiasi, M. and Safavi, A.A., 2016. Employing secure coding practices into industrial applications: a case study. Empirical Software Engineering, 21(1), pp.4-16. https://doi.org/10.1007/s10664-014-9341-9.
