@@ -8,7 +8,7 @@ date: 2013-09-23
 location: "Shiraz, Iran"
 ---
 
-Fall 2013: Introductory Programming, Web Designing,and Computer Workshop\n
+Fall 2013: Introductory Programming, Web Designing,and Computer Workshop<br/>
 
 Spring 2013: Introductory Programming, Web Designing,and Computer Workshop 
 
