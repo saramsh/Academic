@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Sara Moshtari "
   avatar           : "IMG_9185.png"
-  bio              : > 
-                       Doctoral Candidate 
-                       Computing and Information Sciences
-                       Rochester Institute of Technology
+  bio              : > \n
+                       ..Doctoral Candidate \n
+                       ..Computing and Information Sciences\n
+                       ..Rochester Institute of Technology\n
   location         : "Rochester, NY"
   employer         : 
   pubmed           : 
