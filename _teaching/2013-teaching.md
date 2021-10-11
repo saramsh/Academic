@@ -2,7 +2,7 @@
 title: "Instructor at University"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/2013-teaching
+permalink: /teaching/
 venue: "University of Applied Sciences, IT Depertment"
 date: 2013-09-23
 location: "Shiraz, Iran"
