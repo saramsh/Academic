@@ -13,11 +13,8 @@ main:
   - title: "Research Projects"
     url: /projects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
     
-  - title: "Persobal"
-    url: /markdown/
+  - title: "Personal"
+    url: /Personal/
