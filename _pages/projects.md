@@ -1,11 +1,9 @@
-
 ---
 layout: archive
 title: "Research Projects"
-permalink: /portfolio/
+permalink: /projects/
 author_profile: true
 ---
-
 
 Bug Framework
 ======
