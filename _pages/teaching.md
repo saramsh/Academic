@@ -8,12 +8,6 @@ author_profile: true
   body{
   font-size: 12pt;
 }
-  ##{
-  color: #69ACC5;
-}
-  h2{
-  color: #69ACC5;
-}
 </style>
 
 ## Instructor at University
