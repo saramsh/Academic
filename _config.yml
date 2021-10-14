@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Doctoral Candidate"
   avatar           : "IMG_9185.png"
-  bio              : Computing and Information Sciences
-  location         : "Rochester, NY"
+  bio              : "Computing and Information Sciences"
   employer         : "Rochester Institute of Technology"
+  location         : "Rochester, NY"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x0NDDD8AAAAJ&hl=en&oi=sra"
   email            :  "sm2481@rit.edu"
