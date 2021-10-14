@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /taching/
 author_profile: true
 ---
 
@@ -17,6 +17,8 @@ author_profile: true
 }
 </style>
 
+<h2> Instructor at University</h2>
+Undergraduate courses, University of Applied Sciences, IT Depertment, Shiraz, Iran.
 
 * Spring 2017: Introductory Programming, Software Engineering
 * Fall 2017: Introductory Programming, Operating Systems 
