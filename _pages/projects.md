@@ -11,6 +11,9 @@ author_profile: true
   ##{
   color: #69ACC5;
 }
+  h2{
+  color: #69ACC5;
+}
 </style>
 
 <h2>Active Research Projects</h2>
