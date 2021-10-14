@@ -3,6 +3,7 @@ layout: archive
 title: "Research Projects"
 permalink: /projects/
 author_profile: true
+fontsize: 16pt
 ---
 
 ## Active Research Projects
