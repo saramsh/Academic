@@ -18,7 +18,7 @@ author_profile: true
 </style>
 
 ## Instructor at University
-Undergraduate courses, University of Applied Sciences, IT Depertment, Shiraz, Iran
+Undergraduate courses, University of Applied Sciences, IT Depertment, Shiraz, Iran.
 
 * Spring 2017: Introductory Programming, Software Engineering
 * Fall 2017: Introductory Programming, Operating Systems 
