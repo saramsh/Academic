@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style type="text/css">
   body{
-  font-size:14pt;
+  font-size:12pt;
 }
   ##{
   color: #69ACC5;
