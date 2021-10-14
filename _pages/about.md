@@ -17,7 +17,7 @@ redirect_from:
 }
 </style>
 
-I am currently a third-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology , and a graduate research assistant at Global Cyber Security Institute. My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University and a B.Sc. in Computer Engineering from Azad University of Shiraz.
+I am currently a third-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology , and a graduate research assistant at Global Cyber Security Institute. My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University and worked under supervision of Dr.Ashkan Sami. I got my B.Sc. in Computer Engineering from Azad University of Shiraz.
 
 
 ## Research Interests
