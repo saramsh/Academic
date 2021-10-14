@@ -6,9 +6,9 @@ author_profile: true
 ---
 <style type="text/css">
   body{
-  font-size:12pt;
+  font-size: 12pt;
 }
-  h2{
+  ##{
   color: #69ACC5;
 }
 </style>
