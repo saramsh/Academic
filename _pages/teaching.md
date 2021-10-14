@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
 <style type="text/css">
   body{
   font-size: 12pt;
