@@ -26,7 +26,7 @@ author_profile: true
 * Moshtari, S., Sami, A. and Azimi, M., 2013. Using complexity metrics for within-project and cross-project software vulnerability prediction. Kaspersky Academy, Asia-Pacifc MEA Round 2013. 
 
 ## Short Conference Papers & Workshop Papers
-* Bojanova, I., Galhardo C.E.C. , Moshtari, S., 2021, Oct. Input/Output Check Bugs Taxonomy – Injection in Spotlight. The 5th International Workshop on Software Faults & The 3rd Annual International Workshop on Software Hardware Interaction Faults.
+* Bojanova, I., Galhardo C.E.C. , Moshtari, S., 2021, Oct. Input/Output Check Bugs Taxonomy – Injection in Spotlight. The 5th International Workshop on Software Faults & The 3rd Annual International Workshop on Software Hardware Interaction Faults.(To Appear)
 * Santos, C.J., Moshtari, S. and Mirakhorli, M., 2020, March. An Automated Approach to Recover the Use-case View of an Architecture. In 2020 IEEE International Conference on Software Architecture Companion (ICSA-C) (pp. 63-66). IEEE. DOI: 10.1109/ICSA-C50368.2020.00020.
 * Khalili, A., Sami, A., Ghiasi, M., Moshtari, S., Salehi, Z. and Azimi, M., 2014, May. Software engineering issues regarding securing ICS: an industrial case study. In Proceedings of the 1st International Workshop on Modern Software Engineering Methods for Industrial Automation (pp. 1-6). https://doi.org/10.1145/2593783.2593789.
 
