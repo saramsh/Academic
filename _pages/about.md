@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <style type="text/css">
   body{
   font-size: 12pt;
