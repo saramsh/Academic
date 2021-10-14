@@ -8,7 +8,7 @@ author_profile: true
   body{
   font-size: 10pt;
 }
-  h2 {
+  ##{
   color: #69ACC5;
 }
 </style>
