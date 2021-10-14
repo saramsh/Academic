@@ -10,8 +10,8 @@ author_profile: true
 }
 </style>
 
-## <span style="color:blue">Active Research Projects</span>
-
+## Active Research Projects
+<span style="color:blue">Active Research Projects</span>
 ### Bug Framework
 Collaborating with National Institute of Standard and Technology (NIST) in The Bug Framework project by reviewing software weaknesses in public repositories such as CVE and CVE and defining properties of a new Input/Output bug class to make bugs descriptive for developers. 
 [NIST Bug Framework Project] (https://samate.nist.gov/BF/Team/index.html)
