@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style type="text/css">
   body{
-  font-size: 8pt;
+  font-size: 10pt;
 }
 </style>
 
