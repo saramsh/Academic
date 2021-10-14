@@ -29,4 +29,4 @@ In this project, we proposed a machine learning technique based on outlier detec
 Employing secure coding guidelines in ICS is a difficult task which needs the knowledge of both Security and Control. In this project, we performed the first attempt of employing secure coding guidelines into an industrial application. We improved the security of a real word SCADA application named OpenSCADA by leveraging security practices provided in public vulnerability repositories such as CWE. 
 
 <h3>Software Vulnerability Prediction</h3>
-Software vulnerability prediction is a tedious and time-consuming task. It is not possible for development teams to review all code areas to detect software vulnerabilities. In this project, we tried to automate the vulnerability prediction process by providing data-driven vulnerability prediction models. 
+#Software vulnerability prediction is a tedious and time-consuming task. It is not possible for development teams to review all code areas to detect software ##vulnerabilities. In this project, we tried to automate the vulnerability prediction process by providing data-driven vulnerability prediction models. 
