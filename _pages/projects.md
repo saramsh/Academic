@@ -3,8 +3,12 @@ layout: archive
 title: "Research Projects"
 permalink: /projects/
 author_profile: true
-fontsize: 12pt
 ---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
 
 ## Active Research Projects
 
