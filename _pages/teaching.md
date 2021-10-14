@@ -1,11 +1,8 @@
 ---
 title: "Teaching"
-collection: teaching
-type: "Undergraduate courses"
-permalink: /teaching/2013-teaching
-venue: "University of Applied Sciences, IT Depertment"
-date: 2013-09-23
-location: "Shiraz, Iran"
+permalink: /teaching/
+layout: archive
+author_profile: true
 ---
 
 <style type="text/css">
@@ -21,6 +18,7 @@ location: "Shiraz, Iran"
 </style>
 
 ## Instructor at University
+Undergraduate courses, University of Applied Sciences, IT Depertment
 Spring 2017: Introductory Programming, Software Engineering
 
 Fall 2017: Introductory Programming, Operating Systems 
