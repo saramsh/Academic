@@ -85,12 +85,13 @@ author:
   bio              : >-
                          Doctoral Candidate 
                          Computing and Information Sciences
+                         
                          Rochester Institute of Technology
   location         : "Rochester, NY"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x0NDDD8AAAAJ&hl=en&oi=sra"
-  email            :
+  email            :  "sm2481@rit.edu"
   researchgate     :  "https://www.researchgate.net/profile/Sara-Moshtari"
   uri              :
   bitbucket        :
@@ -112,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
