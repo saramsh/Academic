@@ -4,6 +4,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-[download](SaraMoshtari_Resume_Sep2021.pdf)
+[download](cv.pdf)
 
 
