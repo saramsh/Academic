@@ -20,7 +20,7 @@ author_profile: true
 
 ### Bug Framework
 Collaborating with National Institute of Standard and Technology (NIST) in The Bug Framework project by reviewing software weaknesses in public repositories such as CVE and CVE and defining properties of a new Input/Output bug class to make bugs descriptive for developers. 
-[NIST Bug Framework Project] (https://samate.nist.gov/BF/Team/index.html)
+[NIST Bug Framework Project](https://samate.nist.gov/BF/Team/index.html)
 
 ### Attack Surface Detection
 The notion of Attack Surface refers to the critical points on the boundary of a software system which are accessible from outside or contain valuable content for attackers. In this study, we leverage combination of a qualitative analysis approach, program analysis and text mining to identify attack surface components.
