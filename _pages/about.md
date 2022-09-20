@@ -20,12 +20,13 @@ redirect_from:
 }
 </style>
 
-I am currently a third-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology , and a graduate research assistant at [Global Cyber Security Institute](https://www.rit.edu/cybersecurity/). My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University (Iran) and worked under supervision of [Dr.Ashkan Sami](https://scholar.google.com/citations?user=zIh9AvIAAAAJ&hl=en). I got my B.Sc. in Computer Engineering from Azad University of Shiraz (Iran).
+I am currently a forth-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology , and a graduate research assistant at [Global Cyber Security Institute](https://www.rit.edu/cybersecurity/). My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University (Iran) and worked under supervision of [Dr.Ashkan Sami](https://scholar.google.com/citations?user=zIh9AvIAAAAJ&hl=en). I got my B.Sc. in Computer Engineering from Azad University of Shiraz (Iran).
 
 
 <h2> Research Interests</h2>
 My main research interests are in the domain of Software Engineering and Data Science:
 * Software Security
+* Attack Surface Analysis
 * Vulnerability Detection
 * Program Analysis 
 * Data-Driven Software Analysis
