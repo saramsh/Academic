@@ -33,6 +33,12 @@ My main research interests are in the domain of Software Engineering and Data Sc
 * Machine Learning and Data Mining
 
 <h2> News</h2>
-<h3> May 10, 2020 </h3>
+### Dec 02, 20201 
+Attending and presenting at [International Conference on Software Engineering (ICSE2022)]([https://www.rit.edu/cybersecurity/](https://conf.researchr.org/home/icse-2022) in-person at Pittsburgh, Pennsylvania!
+
+### Dec 02, 20201 
+My submission to [International Conference on Software Engineering (ICSE2022)]([https://www.rit.edu/cybersecurity/](https://conf.researchr.org/home/icse-2022)  with Dr. Mirakhorli and Ahmet Okutan titled "A Grounded Theory Based Approach to Characterize Software Attack Surfaces" was accepted in technical track!
+
+### May 10, 2020 
 Passed Research Potential Assessment (RPA) 
 
