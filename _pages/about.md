@@ -32,3 +32,7 @@ My main research interests are in the domain of Software Engineering and Data Sc
 * Data-Driven Software Analysis
 * Machine Learning and Data Mining
 
+<h2> News</h2>
+<h3> May 10, 2020 </h3>
+Passed Research Potential Assessment (RPA) 
+
