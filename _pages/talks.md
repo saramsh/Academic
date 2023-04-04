@@ -16,6 +16,12 @@ author_profile: true
 }
 </style>
 
+
+## "A Grounded Theory Based Approach to Characterize Software Attack Surfaces"
+<span style="color:grey">May 11, 2022</span>
+Conference talk, 44th International Conference on Software Engineering, Pittsburgh, PA.
+[The talk is accessible on Youtube. ](https://youtu.be/9gjW5qFpTC8)
+
 ## "Looking for Software Defects? First Find the Nonconformists"
 <span style="color:grey">September 27, 2020</span>
 Conference proceedings talk, IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM), Adelaide, Australia.
