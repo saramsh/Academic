@@ -21,6 +21,7 @@ redirect_from:
 </style>
 
 I am currently a forth-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology, and a graduate research assistant at [Global Cyber Security Institute](https://www.rit.edu/cybersecurity/). My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University (Iran) and worked under supervision of [Dr.Ashkan Sami](https://scholar.google.com/citations?user=zIh9AvIAAAAJ&hl=en). I got my B.Sc. in Computer Engineering from Azad University of Shiraz (Iran).
+
 I am also research collaborator at [National Institute of Standard and Technology](https://samate.nist.gov/BF/Team/index.html).
 
 
