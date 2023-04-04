@@ -21,6 +21,7 @@ redirect_from:
 </style>
 
 I am currently a forth-year Ph.D. student in Computing and Information Sciences at Rochester Institute of Technology, and a graduate research assistant at [Global Cyber Security Institute](https://www.rit.edu/cybersecurity/). My doctoral advisor is [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from Shiraz University (Iran) and worked under supervision of [Dr.Ashkan Sami](https://scholar.google.com/citations?user=zIh9AvIAAAAJ&hl=en). I got my B.Sc. in Computer Engineering from Azad University of Shiraz (Iran).
+I am also research collaborator at [National Institute of Standard and Technology](https://www.rit.edu/cybersecurity/)
 
 
 <h2> Research Interests</h2>
@@ -33,10 +34,12 @@ My main research interests are in the domain of Software Engineering and Data Sc
 * Machine Learning and Data Mining
 
 <h2> News</h2>
+### Feb 20, 2023 
+Defended my PhD proposal.
 ### May 11, 2022 
-Attending and presenting at [ICSE2022](https://conf.researchr.org/home/icse-2022/) in-person at Pittsburgh, Pennsylvania!
+Attended and presented at [ICSE2022](https://conf.researchr.org/home/icse-2022/) in-person at Pittsburgh, Pennsylvania!
 ### Dec 02, 2021 
 My submission to [International Conference on Software Engineering ICSE2022](https://conf.researchr.org/home/icse-2022) with Dr. Mirakhorli and Ahmet Okutan titled "A Grounded Theory Based Approach to Characterize Software Attack Surfaces" was accepted in technical track!
 ### May 10, 2020 
-Passed Research Potential Assessment (RPA) 
+Passed Research Potential Assessment (RPA).
 
