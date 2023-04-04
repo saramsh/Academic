@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Conference Papers
-* Moshtari, S., Okutan, A. and Mirakhorli, M., 2022, May. A grounded theory based approach to characterize software attack surfaces. In Proceedings of the 44th International Conference on Software Engineering (pp. 13-24).
+* Moshtari, S., Okutan, A. and Mirakhorli, M., 2022, May. A grounded theory based approach to characterize software attack surfaces. In Proceedings of the 44th International Conference on Software Engineering (pp. 13-24).[ICSE2022](https://conf.researchr.org/profile/icse-2022/saramoshtari)
 * Bojanova, I., Galhardo, C.E. and Moshtari, S., 2022, October. Data Type Bugs Taxonomy: Integer Overflow, Juggling, and Pointer Arithmetics in Spotlight. In 2022 IEEE 29th Annual Software Technology Conference (STC) (pp. 192-205). IEEE.
 * Moshtari, S., Santos, J.C., Mirakhorli, M. and Okutan, A., 2020, September. Looking for Software Defects? First Find the Nonconformists. In 2020 IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM) (pp. 75-86). IEEE. DOI:10.1109/SCAM51674.2020.00014. 
 * Moshtari, S. and Sami, A., 2016, April. Evaluating and comparing complexity, coupling and a new proposed set of coupling metrics in cross-project vulnerability prediction. In Proceedings of the 31st Annual ACM Symposium on Applied Computing (pp. 1415-1421). https://doi.org/10.1145/2851613.2851777
