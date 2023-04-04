@@ -16,9 +16,6 @@ author_profile: true
 }
 </style>
 
-## Journal Articles
-* Khalili, A., Sami, A., Azimi, M., Moshtari, S., Salehi, Z., Ghiasi, M. and Safavi, A.A., 2016. Employing secure coding practices into industrial applications: a case study. Empirical Software Engineering, 21(1), pp.4-16. https://doi.org/10.1007/s10664-014-9341-9.
-* Moshtari, S., Sami, A. and Azimi, M., 2013. Using complexity metrics to improve software security. Computer Fraud & Security, 2013(5), pp.8-17.https://doi.org/10.1016/S1361-3723(13)70045-9.
 
 ## Conference Papers
 * Moshtari, S., Okutan, A. and Mirakhorli, M., 2022, May. A grounded theory based approach to characterize software attack surfaces. In Proceedings of the 44th International Conference on Software Engineering (pp. 13-24).
@@ -26,6 +23,10 @@ author_profile: true
 * Moshtari, S., Santos, J.C., Mirakhorli, M. and Okutan, A., 2020, September. Looking for Software Defects? First Find the Nonconformists. In 2020 IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM) (pp. 75-86). IEEE. DOI:10.1109/SCAM51674.2020.00014. 
 * Moshtari, S. and Sami, A., 2016, April. Evaluating and comparing complexity, coupling and a new proposed set of coupling metrics in cross-project vulnerability prediction. In Proceedings of the 31st Annual ACM Symposium on Applied Computing (pp. 1415-1421). https://doi.org/10.1145/2851613.2851777
 * Moshtari, S., Sami, A. and Azimi, M., 2013. Using complexity metrics for within-project and cross-project software vulnerability prediction. Kaspersky Academy, Asia-Pacifc MEA Round 2013. 
+
+## Journal Articles
+* Khalili, A., Sami, A., Azimi, M., Moshtari, S., Salehi, Z., Ghiasi, M. and Safavi, A.A., 2016. Employing secure coding practices into industrial applications: a case study. Empirical Software Engineering, 21(1), pp.4-16. https://doi.org/10.1007/s10664-014-9341-9.
+* Moshtari, S., Sami, A. and Azimi, M., 2013. Using complexity metrics to improve software security. Computer Fraud & Security, 2013(5), pp.8-17.https://doi.org/10.1016/S1361-3723(13)70045-9.
 
 ## Short Conference Papers & Workshop Papers
 * Bojanova, I., Galhardo, C. and Moshtari, S., 2021, November. Input/Output Check Bugs Taxonomy: Injection Errors in Spotlight. 2021 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE), Wuhan, CN.
