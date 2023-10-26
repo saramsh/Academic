@@ -20,7 +20,7 @@ redirect_from:
 }
 </style>
 
-I am a postdoctoral fellow in [Department of Information and Computer Science]([https://www.rit.edu/cybersecurity/](https://www.ics.hawaii.edu)) at University of Hawai‘i at Manoa. I received my Ph.D. in Computing and Information Sciences at [Rochester Institute of Technology](https://www.rit.edu), and was a graduate research assistant at [Global Cyber Security Institute](https://www.rit.edu/cybersecurity/). My doctoral advisor was [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from [Shiraz University](https://shirazu.ac.ir/en/home).
+I am a postdoctoral fellow in [Department of Information and Computer Science](https://www.ics.hawaii.edu)) at University of Hawai‘i at Manoa. I received my Ph.D. in Computing and Information Sciences at [Rochester Institute of Technology](https://www.rit.edu), and was a graduate research assistant at [Global Cyber Security Institute](https://www.rit.edu/cybersecurity/). My doctoral advisor was [Dr.Mehdi Mirakhorli](https://www.se.rit.edu/~mehdi/). I got my M.Sc. in Computer Engineering from [Shiraz University](https://shirazu.ac.ir/en/home).
 
 I am also research collaborator at [National Institute of Standard and Technology (NIST)](https://samate.nist.gov/BF/Team/index.html).
 
