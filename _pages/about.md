@@ -35,7 +35,7 @@ My main research interests are in the domain of Software Engineering and Data Sc
 * Machine Learning and Data Mining
 
 <h2> News</h2>
-### Feb 20, 2023 
+### Aug 29, 2023 
 I successfully defended my PhD dissertation!
 ### Feb 20, 2023 
 Defended my PhD proposal.
